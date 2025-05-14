@@ -37,3 +37,7 @@ button:hover {
 .result img {
     margin-top: 10px;
 }
+
+#barcodeLabel {
+    font-weight: bold;
+}
