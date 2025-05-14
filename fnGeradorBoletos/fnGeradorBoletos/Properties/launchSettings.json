@@ -2,8 +2,7 @@
   "profiles": {
     "fnGeradorBoletos": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7002",
-      "launchBrowser": false
+      "commandLineArgs": "--port 7002 --cors \"*\""
     }
   }
 }
